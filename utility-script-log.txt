@@ -1,0 +1,11 @@
+mv: /Users/bolt/Downloads/file-sample_100kB.pdf: No such file or directory
+t enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+mv: rename *.pdf to /Users/bolt/Documents/*.pdf: No such file or directory
+2023-12-26 00:35:05.402 soffice[80363:3683721] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+unoconv: RuntimeException during import phase:
+Office probably died. Unsupported URL </Users/bolt/Downloads/file-sample_100kB.docx>: "from LoadEnv::startLoading"
+mv: /Users/bolt/Downloads/file-sample_100kB.docx: No such file or directory
+mv: rename *.pdf to /Users/bolt/Documents/*.pdf: No such file or directory
+/Users/bolt/Downloads/file-sample_100kB.pdf
+/Users/bolt/Downloads/file-sample_150kB.pdf
+/Users/bolt/Downloads/file_example_WEBP_50kB.webp

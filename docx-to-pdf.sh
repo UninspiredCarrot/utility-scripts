@@ -10,6 +10,7 @@ do
             unoconv -f pdf "$event"
             echo "converted $event to pdf" >> "$processed_file"
             mv $event ~/Documents/ms-office/docx/
+            mv *.pdf ~/Documents/
         fi
     fi
 done
