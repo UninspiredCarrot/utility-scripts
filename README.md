@@ -6,6 +6,7 @@
 - [ ] `.xlsx` &rarr; `.ods`
 - [x] images to `Pictures` folder
 - [x] `.pdf`, `.csv` to `Documents`folder
+- [ ] screenshots to `Pictures` folder
 
 ## TO-DO
 
